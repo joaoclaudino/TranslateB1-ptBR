@@ -1,0 +1,28 @@
+
+delete from CAMPO
+GO
+
+BULK INSERT CAMPO  
+    FROM '\\CAMINHO\CAMPO.csv'
+    WITH
+    (
+		FIRSTROW = 1,
+		CODEPAGE = '65001',
+		FIELDTERMINATOR = ',' ,
+		ROWTERMINATOR = '0x0a'
+    );
+go
+
+delete from TABELA
+GO
+
+BULK INSERT TABELA  
+    FROM '\\CAMINHO\TABELA.csv'
+    WITH
+    (
+		FIRSTROW = 1,
+		CODEPAGE = '65001',
+		FIELDTERMINATOR = ',' ,
+		ROWTERMINATOR = '0x0a'
+    );
+go

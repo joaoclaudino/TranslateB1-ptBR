@@ -1,0 +1,1664 @@
+﻿Código Tabela;Tabela;Descrição
+1;BAL1;(----)
+10;BOX1;Definição da caixa - Linhas
+100;CPV4;Estorno Nota Fiscal de Entrada de correção - valor do imposto por documento
+1000;OSCO;Origem chamado de serviço
+1001;OSCP;Tipo de problema do chamado de serviço
+1002;OSCR;Razão especial - regras de configuração contábil analítica: receitas & despesas
+1003;OSCS;Status do chamado de serviço
+1004;OSCT;Tipo do chamado de serviço
+1005;OSEC;Seções
+1006;OSES;
+1007;OSGP;Grupo de serviços para o Brasil
+1008;OSHP;Tipos de remessa
+1009;OSHR;Histórico do relatório dos direitos e interesses do acionista
+101;CPV5;Estorno NF entrada - imposto retido
+1010;OSLD;Detalhe da linha de programação
+1011;OSLM;Razão especial - relatório contábil analítico: material
+1012;OSLP;Vendedor
+1013;OSLR;Razão especial - relatório contábil analítico: receitas & despesas
+1014;OSLT;Soluções de chamado de serviço
+1015;OSPG;Preços especiais para grupos
+1016;OSPP;Preços especiais
+1017;OSRA;Ações do relatório planejado
+1018;OSRD;Nºs de lotes e de série
+1019;OSRI;Nºs de série para itens
+102;CPV6;Estorno NF entrada de correção - prestações
+1020;OSRL;Nº de série
+1021;OSRN;Cadastro nºs de série
+1022;OSRQ;Quantidades nº de série
+1023;OSRT;Relatório de resumo Coréia
+1024;OSRW;Atributos de nº série no local
+1025;OSSP;Prestação de outros serviços
+1026;OSST;Status da solução do chamado de serviço
+1027;OSTA;Autoridades fiscais
+1028;OSTB;Modelo
+1029;OSTC;Códigos de imposto
+103;CPV7;Estorno NF entrada - embalagens de entrega
+1030;OSTT;Tipo de autoridades fiscais
+1031;OSUL;Registro do login do usuário de suporte
+1032;OSUS;Estatísticas de utilização de suporte
+1033;OSVM;Sistemas para mapeamento de valores
+1034;OSVR;Reconciliações gravadas
+1035;OSVT;Definir tipo resumo IVA
+1036;OSWA;Valores específicos retidos na fonte
+1037;OTAX;Transações de IVA
+1038;OTBP;Parceiro de negócios do grupo-alvo
+1039;OTCD;Determinação do código de imposto
+104;CPV8;Estorno devolução da nota fiscal de entrada - itens na embalagem
+1040;OTCN;Nota de controle
+1041;OTCX;Determinação do código de imposto
+1042;OTER;Áreas
+1043;OTFC;Combinação de impostos
+1044;OTGG;Grupo alvo
+1045;OTHL;Limites
+1046;OTIZ;Fuso horário da empresa
+1047;OTNC;Ctg.transação
+1048;OTNN;1099 formulários
+1049;OTOB;Saldo inicial 1099
+105;CPV9;Estorno NF de entrada - adiant.transferido
+1050;OTOF;Receitas Federais
+1051;OTPA;Atributos do parâmetro de impostos
+1052;OTPI;Nota fiscal Compras
+1053;OTPL;Modelo de importação
+1054;OTPR;Valores da declaração de impostos
+1055;OTPS;Parâmetro do imposto
+1056;OTRB;Assistente de relatório de impostos para o Brasil
+1057;OTRC;Códigos de lançamento contábil manual
+1058;OTRN;Tabela de serviço multilíngue
+1059;OTRS;Objeto de gravação do relatório de imposto
+106;CRD1;Parceiros de negócios - endereços
+1060;OTRT;Modelos de lançamento
+1061;OTRX;Documentos de transformação
+1062;OTSC;Código CST para Nota Fiscal
+1063;OTSH;Apontamento de horas do gerenciamento de projetos - Cabeçalho
+1064;OTSI;Nota Fiscal Vendas
+1065;OTTP;Visualização da dica
+1066;OTWS;Site da Web do imposto de renda
+1067;OTXD;Esboço nota fiscal
+1068;OUAL;Log de ações do usuário
+1069;OUBR;Filiais
+107;CRD2;Bussiness Partners - Payment Methods
+1070;OUDG;Configurações do usuário
+1071;OUDO;Objeto definido pelo usuário
+1072;OUDP;Departamentos
+1073;OUGP;Grupo de unidades de medida
+1074;OUGR;Grupo de autorizações
+1075;OULA;EULA
+1076;OUOM;Cadastro da unidade de medida
+1077;OUPT;Árvore de autorizações do usuário
+1078;OUSG;Utilização da Nota Fiscal
+1079;OUSR;Usuários
+108;CRD3;Conta de reconciliação do PN
+1080;OUTB;Tabelas do usuário
+1081;OUTX;Transações de IVA não notificadas
+1082;OUWTX;Transações não reportadas de imposto retido na fonte
+1083;OVNM;Numeração do relatório de IVA
+1084;OVPM;Contas a pagar
+1085;OVRT;Relatório nota fiscal
+1086;OVRW;Assistente de relançamento de IVA
+1087;OVTG;Definição de imposto
+1088;OVTP;Tipo de fornecedor
+1089;OVTR;Relatório de imposto
+109;CRD4;Códigos IRF permitidos para PN
+1090;OWDD;Documentos para confirmação
+1091;OWDT;Tabela de widget
+1092;OWEX;Entidade de execução do mecanismo do fluxo de trabalho
+1093;OWFER;Mensagem de erro do fluxo de trabalho
+1094;OWFI;Fluxo de trabalho - Instâncias
+1095;OWGT;Unidades de peso
+1096;OWHS;Depósitos
+1097;OWHT;Imposto retido na fonte
+1098;OWIN;Informações do mecanismo do fluxo de trabalho
+1099;OWJB;Entidade de trabalho do fluxo de trabalho
+11;BOX2;Campo definição - contas
+110;CRD5;BP Payment Dates
+1100;OWKO;Instruções de produção
+1101;OWLS;Fluxo de trabalho - Detalhes da tarefa
+1102;OWMG;Gerente de workflow
+1103;OWOR;Ordem de produção
+1104;OWPK;Pacotes de dashboard
+1105;OWST;Nível de confirmação
+1106;OWTA;Acumulação de imposto retido na fonte
+1107;OWTC;Certificados de imposto retido na fonte
+1108;OWTD;Definição do imposto retido na fonte
+1109;OWTI;Definição de tempo do workflow
+111;CRD6;Nome do pagador do PN
+1110;OWTJ;Trabalho do tempo de workflow
+1111;OWTM;Modelos de autorização
+1112;OWTQ;Solicitação de transferência de estoque
+1113;OWTR;Transferência do estoque
+1114;OWTS;Tabela de tarefas do mecanismo do fluxo de trabalho
+1115;OWTT;Tipo de imposto retido na fonte
+1116;OWTX;Transanções IRF
+1117;OWWT;Workbench
+1118;OXAP;Dados cadastrais XAPP
+1119;OZRD;Resumo diário POS
+112;CRD7;IDs fiscais para cadastro do PN
+1120;PACT;Insight da análise pervasiva para ação
+1121;PACT1;Insight da análise pervasiva para subitem da ação
+1122;PACT3;Insight da análise pervasiva para campo de tabela da ação
+1123;PCH1;Nota fiscal de Entrada - linhas
+1124;PCH10;Nota fiscal de entrada - estrutura de linhas
+1125;PCH12;NF de entrada - ampliação do imposto
+1126;PCH13;Linhas NF entrada - despesas distribuídas
+1127;PCH14;A/P Invoice - Assembly - Rows
+1128;PCH15;NF entrada - Adiant.aplic.transferido
+1129;PCH16;A/P Invoice - SnB properties
+113;CRD8;Atribuição de filial do PN
+1130;PCH17;Nota fiscal de entrada - processo de importação
+1131;PCH18;Nota fiscal de entrada - processo de exportação
+1132;PCH19;Nota fiscal de entrada - Dados de alocação do depósito
+1133;PCH2;Nota fiscal de entrada - Despesas adicionais - Linhas
+1134;PCH20;Despesas Intrastat
+1135;PCH21;Nota fiscal de entrada - informação de referência do documento
+1136;PCH22;Nota fiscal de entrada - Custos do recurso
+1137;PCH23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1138;PCH3;NF de entrada - Despesas adicionais
+1139;PCH4;Nota fiscal de entrada - valor do imposto por documento
+114;CRD9;Extensão OCRD
+1140;PCH5;Nota fiscal de entrada - dados do imposto retido na fonte
+1141;PCH6;Nota fiscal de Entrada - prestações
+1142;PCH7;Embalagens de entrega - nota fiscal de Entrada
+1143;PCH8;Nota fiscal de entrada -itens na embalagem
+1144;PCH9;NF de entrada - adiant.transf.
+1145;PCI1;Dados ampliados do elemento da lista de verificação do processo
+1146;PDF1;Esboço do pagamento - cheques
+1147;PDF2;Esboço do pagamento - notas fiscais
+1148;PDF3;Esboço pagamento - comprovantes do cartão de crédito
+1149;PDF4;Modelo de pagamento - Lista de contas
+115;CRDC;PN - Meios de comunicação
+1150;PDF6;Esboços de pagamento - imposto retido na fonte - linhas
+1151;PDF7;Esboço de pagamento - valor de imposto por documento
+1152;PDF8;Esboço pagamento - entradas TDS
+1153;PDN1;Recebimento de mercadoria - linhas
+1154;PDN10;Pedido de compra da entrada de mercadorias - estrutura de linhas
+1155;PDN12;Pedido da entrada de mercadorias - ampliação do imposto
+1156;PDN13;Linhas recebimento de mercadoria - despesas distribuídas
+1157;PDN14;Goods Receipt PO - Assembly - Rows
+1158;PDN15;Receb.mercad. - adiant.aplic.transf.
+1159;PDN16;Goods Receipt PO - SnB properties
+116;CSI1;Nota fiscal de correção do cliente - linhas
+1160;PDN17;Recebimento de mercadorias - processo de importação
+1161;PDN18;Recebimento de mercadorias - processo de exportação
+1162;PDN19;Recebimento de mercadoria - Dados de alocação do depósito
+1163;PDN2;Recebimento de mercadoria - Despesas adicionais - Linhas
+1164;PDN20;Despesas Intrastat
+1165;PDN21;Recebimento de mercadorias - informação de referência do documento
+1166;PDN22;Recebimento de mercadorias - Custos do recurso
+1167;PDN23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1168;PDN3;Recebimento de mercadoria - Despesas adicionais
+1169;PDN4;Recebimento de mercadoria - valor do imposto por documento
+117;CSI10;Nota fiscal de saída de correção - estrutura da linha
+1170;PDN5;Recebimento de mercadoria - imposto retido
+1171;PDN6;Pedido de compra de entrada de mercadorias - prestações
+1172;PDN7;Recebimento de mercadoria - embalagens de entrega
+1173;PDN8;Recebimento de mercadoria - itens na embalagem
+1174;PDN9;Recebimento de mercadoria - adiant.transferido
+1175;PEX1;Tabela de resultados de pagamento - linhas
+1176;PHA1;Gerenciamento de projetos - Etapas
+1177;PHA2;Gerenciamento de projetos - Etapas - Assuntos pendentes
+1178;PHA3;Gerenciamento de projetos - Etapas - Anexos
+1179;PHA4;Gerenciamento de projetos - Etapas - Documentos
+118;CSI12;Nota fiscal Saída correção - ampl.impos.
+1180;PHA5;Gerenciamento de projetos - Etapas - Recursos
+1181;PHA6;Gerenciamento de projetos - Etapas - Atividades
+1182;PHA7;Gerenciamento de projetos - Ordens de trabalho
+1183;PHA8;Gerenciamento de projetos - Resumo
+1184;PJT1;Etapas do plano do projeto
+1185;PJT2;Registro de tempo de etapas do plano do projeto
+1186;PKL1;Lista de picking - linhas
+1187;PKL2;Lista de picking para detalhes de número de lote e série e depósito
+1188;PMC1;Configuração do gerenciamento de projetos - Tipos de fase
+1189;PMC2;Configuração do gerenciamento de projetos - Configuração das etapas
+119;CSI13;Linhas NF saída correção - despesas distribuídas
+1190;PMC3;Configuração do gerenciamento de projetos - Área
+1191;PMC4;Configuração do gerenciamento de projetos - Prioridade
+1192;PMC5;Configuração do gerenciamento de projetos - Tipo de atividade
+1193;PMC6;Configuração do gerenciamento de projetos - Tarefas
+1194;PMG1;Gerenciamento de projetos - Etapas
+1195;PMG2;Gerenciamento de projetos - Etapas - Assuntos pendentes
+1196;PMG3;Gerenciamento de projetos - Etapas - Anexos
+1197;PMG4;Gerenciamento de projetos - Etapas - Documentos
+1198;PMG5;Gerenciamento de projetos - Etapas - Recursos
+1199;PMG6;Gerenciamento de projetos - Etapas - Atividades
+12;BOX3;Campo definição - seleção
+120;CSI14;A/R Correction Invoice - Assembly - Rows
+1200;PMG7;Gerenciamento de projetos - Ordens de trabalho
+1201;PMG8;Gerenciamento de projetos - Resumo
+1202;PMV8;Contas a receber - entradas TDS
+1203;PMX1;Linha da folha de pagamento
+1204;POR1;Pedido de compra - linhas
+1205;POR10;Pedido de compra - Estrutura de linhas
+1206;POR12;Pedido de compra - ampliação do imposto
+1207;POR13;Linhas pedido de compra - despesas distribuídas
+1208;POR14;Purchase Order - Assembly - Rows
+1209;POR15;Pedido compra - Adiant.aplic.transferido
+121;CSI15;NF saída correção - adiant.aplic.transf.
+1210;POR16;Purchase Order - SnB properties
+1211;POR17;Pedido de compra - processo de importação
+1212;POR18;Pedido de compra - processo de exportação
+1213;POR19;Pedido de compra - Dados de alocação do depósito
+1214;POR2;Pedido de compra - Despesas adicionais - Linhas
+1215;POR20;Despesas Intrastat
+1216;POR21;Pedido de compra - informação de referência do documento
+1217;POR22;Pedido de compra - Custos do recurso
+1218;POR23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1219;POR3;Pedido de compra - Despesas adicionais
+122;CSI16;A/R Corr. Inv. - SnB properties
+1220;POR4;Pedido de compra - valor do imposto por documento
+1221;POR5;Pedido de compra - imposto retido na fonte
+1222;POR6;Pedido de compra - prestações
+1223;POR7;Embalagens de entrega - pedido de compra
+1224;POR8;Itens na embalagem - pedido de compra
+1225;POR9;Pedido de compra - adiant.transferido
+1226;PQT1;Oferta de compra - Linhas
+1227;PQT10;Oferta de compra - Estrutura da linha
+1228;PQT12;Oferta de compra - Ampliação do imposto
+1229;PQT13;Linhas da oferta de compra - Despesas distribuídas
+123;CSI17;Nota fiscal de saída de correção - processo de importação
+1230;PQT14;Purchase Quotation - Assembly - Rows
+1231;PQT15;PQ - Adiantamento aplicado
+1232;PQT16;Purchase Quotation - SnB properties
+1233;PQT17;Oferta de compra - processo de importação
+1234;PQT18;Oferta de compra - processo de exportação
+1235;PQT19;Oferta de compra - Dados de alocação do depósito
+1236;PQT2;Oferta de compra - Frete - Linhas
+1237;PQT20;Despesas Intrastat
+1238;PQT21;Oferta de compra - informação de referência do documento
+1239;PQT22;Cotação de compra - Custos do recurso
+124;CSI18;Nota fiscal de saída de correção - processo de exportação
+1240;PQT23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1241;PQT3;Oferta de compra - Frete
+1242;PQT4;Oferta de compra - Montante de imposto por documento
+1243;PQT5;Oferta de compra - Imposto retido na fonte
+1244;PQT6;Oferta de compra - Prestação
+1245;PQT7;Pacote de entrega - Oferta de compra
+1246;PQT8;Itens no pacote - Oferta de compra
+1247;PQT9;Oferta de compra - Adiantamento sacado
+1248;PQW1;Geração de oferta de compra: partidas individuais
+1249;PRQ1;Solicitação de compra - linhas
+125;CSI19;Nota fiscal de saída de correção - Dados de alocação do depósito
+1250;PRQ10;Solicitação de compra - Estrutura da linha
+1251;PRQ12;Solicitação de compra - isenção de imposto
+1252;PRQ13;Linhas da solicitação de compra - Despesas distribuídas
+1253;PRQ14;Solicitação de compra - Montagem - Linhas
+1254;PRQ15;Solicitação de compra - Esboço do adiantamento aplicado
+1255;PRQ16;Solicitação de compra - propriedades do número de série e lote
+1256;PRQ17;Solicitação de compra - dados da alocação do depósito
+1257;PRQ18;Solicitação de compra - processo de exportação
+1258;PRQ19;Solicitação de compra - dados da alocação do depósito
+1259;PRQ2;Solicitação de compra - Frete - Linhas
+126;CSI2;Nota fiscal de saída de correção - Despesas adicionais - Linhas
+1260;PRQ20;Despesas Intrastat
+1261;PRQ21;Solicitação de compra - informação de referência do documento
+1262;PRQ22;Solicitação de compra - Custos do recurso
+1263;PRQ23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1264;PRQ3;Solicitação de compra - frete
+1265;PRQ4;Solicitação de compra - valor do imposto por documento
+1266;PRQ5;Solicitação de compra - imposto retido na fonte
+1267;PRQ6;Solicitação de compra - prestações
+1268;PRQ7;Pacotes de entrega - Solicitação de compra
+1269;PRQ8;Itens no pacote - Solicitação de compra
+127;CSI20;Despesas Intrastat
+1270;PRQ9;Solicitação de compra - sacar adiantamento
+1271;PRS1;Linhas de detalhes da definição de seqüência de impressão
+1272;PUTR;Resultado do teste de pré-atualização
+1273;PUTR1;Linha do resultado do teste de pré-atualização
+1274;PWZ2;Assistente de pagamento - linhas 2
+1275;PWZ3;Assistente de pagamentos - linhas 3
+1276;PWZ4;Assistente pgto.- linhas 4
+1277;PWZ5;Assistente de pagamento - linha 5
+1278;PWZ6;Linhas do assistente de pagamento - 6
+1279;PYD1;Condições de pagamento permitidas na execução do pagamento
+128;CSI21;Fatura de correção de saída - informação de referência do documento
+1280;PYM1;Seleção da moeda
+1281;QUE1;Membros em fila
+1282;QUE2;Elementos em fila
+1283;QUT1;Cotação de vendas - linhas
+1284;QUT10;Cotação de vendas - Estrutura de linhas
+1285;QUT12;Cotação de vendas - ampliação do imposto
+1286;QUT13;Linhas cotação de venda - despesas distribuídas
+1287;QUT14;Sales Quotation - Assembly - Rows
+1288;QUT15;Cot.vendas - adiant.aplic.transf.
+1289;QUT16;Sales Quotation - SnB properties
+129;CSI22;Nota fiscal de saída de correção - Custos do recurso
+1290;QUT17;Cotação de vendas - processo de importação
+1291;QUT18;Cotação de vendas - processo de exportação
+1292;QUT19;Cotação de vendas - Dados de alocação do depósito
+1293;QUT2;Cotação de vendas - Despesas adicionais - Linhas
+1294;QUT20;Despesas Intrastat
+1295;QUT21;Cotação de vendas - informação de referência do documento
+1296;QUT22;Cotação de vendas - Custos do recurso
+1297;QUT23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1298;QUT3;Cotação de vendas - Despesas adicionais
+1299;QUT4;Cotação de vendas - valor do imposto por documento
+13;BOX4;Definição de caixa - contas de contrapartida de contas
+130;CSI23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1300;QUT5;Cotação de vendas - imposto
+1301;QUT6;Cotação de vendas - Prestações
+1302;QUT7;Embalagens de entrega - cotação de vendas
+1303;QUT8;Cotação de vendas - Itens na embalagem
+1304;QUT9;Cotação de vendas - adiant.transferido
+1305;QWZ1;Tabelas de consulta
+1306;QWZ2;Campos de resultado da consulta
+1307;QWZ3;Campos de condição de consulta
+1308;RCC4;Pagamento recebido - comprovantes de pagamento
+1309;RCON;Mapa de conexão para modelos do Crystal Report
+131;CSI3;Nota fiscal de saída de correção - Despesas adicionais
+1310;RCR1;Lançamentos periódicos - Linhas
+1311;RCT1;Entrada de pagamento - cheques
+1312;RCT2;Contas a receber - notas fiscais
+1313;RCT3;Contas a receber - Comprovantes de cartão de crédito
+1314;RCT4;Entrada de pagamento - lista de contas
+1315;RCT6;Contas a receber - Linhas do imposto retido na fonte
+1316;RCT7;Contas a receber - Valor do imposto por documento
+1317;RCT8;Contas a receber - entradas TDS
+1318;RDC1;Relatório multilíngue
+1319;RDN1;Devoluções - linhas
+132;CSI4;NF de saída de correção - Valor imposto por documento
+1320;RDN10;Devoluções - Estrutura de linhas
+1321;RDN12;Devoluções - ampliação do imposto
+1322;RDN13;Linhas devoluções - despesas distribuídas
+1323;RDN14;Return - Assembly - Rows
+1324;RDN15;Devoluções - Adiant.aplic.transferido
+1325;RDN16;Returns - SnB properties
+1326;RDN17;Retornos - processo de importação
+1327;RDN18;Retornos - processo de exportação
+1328;RDN19;Devoluções - Dados de alocação do depósito
+1329;RDN2;Devolução - Despesas adicionais - Linhas
+133;CSI5;Nota fiscal de saída de correção - imposto retido
+1330;RDN20;Despesas Intrastat
+1331;RDN21;Devoluções - informação de referência do documento
+1332;RDN22;Devoluções - Custos do recurso
+1333;RDN23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1334;RDN3;Devolução - Despesas adicionais
+1335;RDN4;Devoluções - Valor do imposto por documento
+1336;RDN5;Devoluções - imposto retido na fonte
+1337;RDN6;Devoluções - prestações
+1338;RDN7;Embalagens de entrega - devoluções
+1339;RDN8;Devoluções - itens na embalagem
+134;CSI6;NF saída de correção - prestações
+1340;RDN9;Devoluções - adiant.transferido
+1341;RDOC;Documento
+1342;RDR1;Pedido de venda - linhas
+1343;RDR10;Pedido de venda - Estrutura de linhas
+1344;RDR12;Pedido de venda - ampliação do imposto
+1345;RDR13;Linhas pedido de venda - despesas distribuídas
+1346;RDR14;Sales Order - Assembly - Rows
+1347;RDR15;Pedido venda - Adiant.aplic.transf.
+1348;RDR16;Sales Order - SnB properties
+1349;RDR17;Pedido de venda - processo de importação
+135;CSI7;NF de saída de correção - Embalagens de entrega
+1350;RDR18;Pedido de venda - processo de exportação
+1351;RDR19;Pedido de venda - Dados de alocação do depósito
+1352;RDR2;Pedido de venda - Despesas adicionais - Linhas
+1353;RDR20;Despesas Intrastat
+1354;RDR21;Pedido de venda - informação de referência do documento
+1355;RDR22;Pedido de vendas - Custos do recurso
+1356;RDR23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1357;RDR3;Pedido de venda - Despesas adicionais
+1358;RDR4;Pedido de venda - Valor do imposto por documento
+1359;RDR5;Pedido de venda - imposto retido
+136;CSI8;NF de saída de correção - itens na embalagem
+1360;RDR6;Pedido de venda - Prestações
+1361;RDR7;Embalagens de entrega - pedido de venda
+1362;RDR8;Pedido de venda - Itens na embalagem
+1363;RDR9;Pedido - adiant.transferido
+1364;REQ1;Solicitação de chamada do sistema externo - lista de mensagens
+1365;REQ2;Solicitação de chamada do sistema externo - lista de argumentos
+1366;REQ3;Solicitação de chamada do sistema externo - lista de argumentos mensagem
+1367;RIN1;Nota de crédito de contas a receber - linhas
+1368;RIN10;Devolução da nota fiscal de saída - estrutura de linhas
+1369;RIN12;Devolução de nota fiscal de Saída - ampliação do imposto
+137;CSI9;Nota fiscal de saída de correção - adiant.transferido
+1370;RIN13;Linhas devolução NF saída - despesas distribuídas
+1371;RIN14;A/R Credit Memo - Assembly - Rows
+1372;RIN15;Dev.NF saída - adiant.aplic.transf.
+1373;RIN16;A/R Credit Memo - SnB properties
+1374;RIN17;Devolução da nota fiscal de saída - processo de importação
+1375;RIN18;Devolução da nota fiscal de saída - processo de exportação
+1376;RIN19;Devolução da nota fiscal de saída - Dados de alocação do depósito
+1377;RIN2;Devolução da nota fiscal de saída - Despesas adicionais - Linhas
+1378;RIN20;Despesas Intrastat
+1379;RIN21;Devolução da nota fiscal de saída - informação de referência do documento
+138;CSN1;Série de certificado - Série
+1380;RIN22;Devolução da nota fiscal de saída - Custos do recurso
+1381;RIN23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1382;RIN3;Devol.NF saída - Despesas adicionais
+1383;RIN4;Devolução da nota fiscal de saída - Valor do imposto por documento
+1384;RIN5;Devolução nota fiscal de saída - Imposto retido na fonte
+1385;RIN6;Nota de crédito de contas a receber - prestações
+1386;RIN7;Devolução da nota fiscal de saída - Embalagens de entrega
+1387;RIN8;Itens na embalagem - devolução da nota fiscal de saída
+1388;RIN9;Devolução da nota fiscal de saída - adiant.transferido
+1389;RIT1;Taxas de juro
+139;CSPI;Informações sobre Solution Packager
+1390;RITM;Elemento do relatório
+1391;RPC1;Nota de crédito de contas a pagar - linhas
+1392;RPC10;Nota de crédito de contas a receber - Estrutura de linhas
+1393;RPC12;Devolução da nota fiscal de entrada - ampliação do imposto
+1394;RPC13;Linhas devolução NF entrada - despesas distribuídas
+1395;RPC14;A/P Credit Memo - Assembly - Rows
+1396;RPC15;Dev.NF entrada - adiant.aplic.transf.
+1397;RPC16;A/P Credit Memo - SnB properties
+1398;RPC17;Devolução da nota fiscal de entrada - processo de importação
+1399;RPC18;Devolução da nota fiscal de entrada - processo de exportação
+14;BPL1;Números I.E. da filial
+140;CSTN;ID da estação de trabalho
+1400;RPC19;Devolução da nota fiscal de entrada - Dados de alocação do depósito
+1401;RPC2;Linhas da devolução da nota fiscal de entrada - Despesas
+1402;RPC20;Despesas Intrastat
+1403;RPC21;Devolução da nota fiscal de entrada - informação de referência do documento
+1404;RPC22;Devolução da nota fiscal de entrada - Custos do recurso
+1405;RPC23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1406;RPC3;Devolução nota fiscal de entrada - Despesas adicionais
+1407;RPC4;Devolução da nota fiscal de entrada - Valor do imposto por documento
+1408;RPC5;Devolução NF de entrada - imposto retido
+1409;RPC6;Nota de crédito de contas a pagar - prestações
+141;CSV1;Estorno da Nota Fiscal de Saída de correção - linhas
+1410;RPC7;Embalagens de entrega -  nota de crédito de contas a pagar
+1411;RPC8;Itens na embalagem - devolução da nota fiscal de entrada
+1412;RPC9;Devolução da nota fiscal de entrada - adiant.transferido
+1413;RPD1;Devoluções - linhas
+1414;RPD10;Devoluções - estrutura de linhas
+1415;RPD12;Devolução - ampliação do imposto
+1416;RPD13;Linhas devoluções - despesas distribuídas
+1417;RPD14;Goods Return - Assembly - Rows
+1418;RPD15;Devolução - Adiant.aplic.transferido
+1419;RPD16;Goods Return - SnB properties
+142;CSV10;Estorno NF saída correção - estrutura de linha
+1420;RPD17;Devolução - processo de importação
+1421;RPD18;Devolução - processo de exportação
+1422;RPD19;Devolução de mercadoria - Dados de alocação de depósito
+1423;RPD2;Devolução de mercadoria - Despesas adicionais - Linhas
+1424;RPD20;Despesas Intrastat
+1425;RPD21;Devolução de mercadorias - informação de referência do documento
+1426;RPD22;Devolução de mercadorias - Custos do recurso
+1427;RPD23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1428;RPD3;Devolução - Despesas adicionais
+1429;RPD4;Devolução de mercadoria - Valor do imposto por documento
+143;CSV12;Estorno NF saída correção - prorrogação do imposto
+1430;RPD5;Devolução - dados do imposto retido
+1431;RPD6;Devolução - prestações
+1432;RPD7;Devolução - Embalagens de entrega
+1433;RPD8;Devolução - itens na embalagem
+1434;RPD9;Devolução de mercadoria - adiant.transferido
+1435;RPRS;Definição da seqüência de impressão
+1436;RSC1;Recursos - depósitos
+1437;RSC2;Recursos - preços
+1438;RSC3;Recursos - Ativos fixos
+1439;RSC4;Recursos - Empregados
+144;CSV13;Linhas estorno NF saída correção - despesas distribuídas
+1440;RSC5;Recursos - Fornecedores preferidos
+1441;RSC6;Recursos - Capacidades diárias
+1442;RTI1;Aposentadoria - Linhas
+1443;RTI2;Aposentadoria - Área de lançamentos contábeis manuais
+1444;RTI3;Alienação - áreas de item
+1445;RTL1;Log de transação do recurso
+1446;RTM1;Diferenças de câmbio - linhas
+1447;RTM2;Diferenças da taxa - Linhas de ajuste da MS
+1448;RTW1;Assistente de boleto Retorno: tabela de importação
+1449;RTW2;Assistente retorno boleto: importar arquivo
+145;CSV14;A/R Correction Invoice Reversal - Assembly - Rows
+1450;RTYP;Lista de tipos de documento
+1451;SCL1;Soluções do chamado de serviço - linhas
+1452;SCL2;Despesas de inventário do chamado de serviço
+1453;SCL3;Despesas de viagem/trabalho do chamado de serviço
+1454;SCL4;Documentos de despesas
+1455;SCL5;Atividades do chamado de serviço
+1456;SCL6;Programação de chamados de serviço
+1457;SCL7;Endereço do PN da chamada de serviço
+1458;SCM1;Razão especial - condições da regra de configuração contábil analítica: material
+1459;SCM2;Razão especial - objetivos da regra de configuração contábil analítica: material
+146;CSV15;Estorno nota fiscal entrada correção - Adiant.aplicado transferido
+1460;SCM3;Razão especial - cálculos adicionais regra configuração contabilidade analítica: material
+1461;SCR1;Razão especial - condições de regra da configuração conta analítica: receitas & despesas
+1462;SCR2;Razão especial - objetivos regra de configuração conta analítica: receitas & despesas
+1463;SCR3;Razão especial - cálculos adicionais regra configuração conta analítica: receitas & despesas
+1464;SCRT;Traduções do SAP Crystal Reports
+1465;SHR1;Histórico do relatório dos direitos e interesses do acionista - linhas
+1466;SITM;Itens
+1467;SITW;Itens - depósito
+1468;SIVE;Devoluções com base no FIFO
+1469;SIVK;Chaves IVL vs. OINM
+147;CSV16;A/R Correction Invoice Reversal - SnB properties
+1470;SIVL;Diário do depósito
+1471;SIVL1;Nível camada IVL
+1472;SIVQ;Tabela de trabalho da fila FIFO
+1473;SLM1;Razão especial - linhas do relatório contábil analítico: material
+1474;SLR1;Razão especial - linhas do relatório contábil analítico: receitas & despesas
+1475;SPP1;Preços especiais - áreas de dados
+1476;SPP2;Preços especiais - áreas de quantidade
+1477;SQR1;Consultas do sistema
+1478;SRA1;Parâmetros de relatório programado
+1479;SRA2;Saída da execução do relatório programado
+148;CSV17;Estorno de nota fiscal de saída de correção - Dados de alocação do depósito
+1480;SRA3;Destinatários programados do relatório
+1481;SRI1;Transação de nº de série para item
+1482;SRT1;Relatório de totais Coréia - Linhas1
+1483;SRT2;Relatório de resumo Coréia - Linhas2
+1484;STA1;Período válido
+1485;STC1;Códigos de imposto - linhas
+1486;SVM1;Sistemas para propriedades de mapeamento de valores
+1487;SVR1;Reconciliações gravadas - lista de transações
+1488;TAX1;Transações IVA - linhas
+1489;TCD1;Campos-chave para determinação
+149;CSV18;Estorno da nota fiscal de saída de correção - processo de exportação
+1490;TCD2;Valores campo-chave
+1491;TCD3;Determinação do código de imposto
+1492;TCD4;Determinação do código de imposto retido
+1493;TCD5;Código de imposto em caso de utilização
+1494;TCN1;Nota de controle - Dados da linha
+1495;TCN2;Nota de controle - Despachantes
+1496;TDR1;Can Be Archive
+1497;TFC1;Combinação de tipos de imposto - linhas
+1498;TGG1;Detalhes do grupo-alvo
+1499;TGPA;Ajuste do lucro bruto - Log
+15;BPL2;Inform. tributárias da filial
+150;CSV19;Estorno de nota fiscal de saída de correção - Dados de alocação do depósito
+1500;TMP8;Contas a receber - entradas TDS
+1501;TNN1;1099 caixas
+1502;TPI1;Nota Fiscal compras - linhas
+1503;TPI2;Códigos da operação da nota fiscal
+1504;TPL1;Modelo - registros
+1505;TPS1;Atributos do parâmetro de impostos
+1506;TPS2;Parâmetro imposto - valores de retorno
+1507;TRB1;Estados selecionados do assistente de relatórios de impostos
+1508;TRB2;Tipos de impostos selecionados do assistente de relatório de impostos
+1509;TRB3;Assistente de relatório do imposto - categorias do imposto selecionadas
+151;CSV2;Estorno da nota fiscal de saída de correção - Despesas adicionais - Linhas
+1510;TRB4;Assistente de relatório do imposto - entradas de imposto selecionadas
+1511;TRB5;Soma de impostos reportados pelo assistente de relatórios do imposto
+1512;TRN1;Subtabela de OTRN
+1513;TRN2;Subtabela de OTRN
+1514;TRS1;Objeto de gravação do relatório de imposto - documentos aprovados
+1515;TRS2;Vals.mod.man.obj.grav.relat.fiscal
+1516;TRT1;Modelos de transação - linhas
+1517;TSH1;Apontamento de horas do gerenciamento de projetos - Linhas
+1518;TSI1;Nota fiscal vendas - Linhas1
+1519;TSI2;Códigos da operação da nota fiscal
+152;CSV20;Despesas Intrastat
+1520;TTP1;Visualização de dicas - linhas
+1521;TXD1;Esboços nota fiscal - Linhas
+1522;UBTN;Cadastro nºs de lote
+1523;UBVL;Números de série e log de avaliação de lote
+1524;UDG1;Configuração do usuário - Documentos
+1525;UDG2;Configurações do usuário - Cartões de crédito
+1526;UDO1;Objetos definidos pelo usuário - Analítico
+1527;UDO2;Objetos definidos pelo usuário - Procurar colunas
+1528;UDO3;Objetos definidos pelo usuário - Colunas encontradas
+1529;UDO4;Objetos definidos pelo usuário - Colunas da tabela inferior
+153;CSV21;Estorno da fatura de correção de saída - informação do documento de referência
+1530;UGP1;Detalhe do grupo de unidades de medida
+1531;UIC1;Formulários personalizados nos modelos
+1532;UIC2;Formulários personalizados no modelo
+1533;UIC3;Personalização de usuário de modelo
+1534;UIC4;Formulários nos modelos atribuídos
+1535;UIC5;Pastas personalizadas no modelo
+1536;UICU;Modelo personalizado
+1537;UILM;IVI: mensagem de log do estoque
+1538;UILM1;Detalhes da série e do lote da mensagem do log do inventário
+1539;UILM2;Substituto conta de estoque
+154;CSV22;Nota fiscal de saída de correção: estorno - Custos do recurso
+1540;UILM3;Mensagem de registro dos componentes do recurso e não estocáveis
+1541;UITM;Itens
+1542;UITW;Itens - depósito
+1543;UIVE;Devoluções com base no FIFO
+1544;UIVK;Chaves IVL vs. OINM
+1545;UIVL;Diário do depósito
+1546;UIVL1;Nível camada IVL
+1547;UIVQ;Tabela de trabalho da fila FIFO
+1548;UPT1;Árvore de autorizações do usuário - Autorização ampliada
+1549;UQR1;Consultas
+155;CSV23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1550;USR5;Log de acesso do usuário
+1551;USR6;Atribuição de filial a usuário
+1552;USR7;Associação de usuários do grupo
+1553;USR8;Associação do usuário do ponto de saída
+1554;USRN;Cadastro nºs de série
+1555;UTX1;Transações de IVA não declaradas - linhas
+1556;UWKO;Instruções de produção
+1557;UWKO1;Instruções de trabalho - linhas
+1558;UWO2;Ordem de produção - base
+1559;UWOR;Ordem de produção
+156;CSV3;Estorno da nota fiscal de saída de correção - Despesas adicionais
+1560;UWOR1;Ordem de produção - linhas
+1561;UWOR3;Ordem de produção - encerramento
+1562;UWTX1;Transações IRF - Linhas
+1563;UXILM;IVI Irrelevant Message IDs
+1564;VLG1;Validação do novo cálculo de/para
+1565;VPM1;Contas a pagar - linhas cheque
+1566;VPM2;Contas a pagar - Nota fiscal
+1567;VPM3;Contas a pagar - Comprovante do cartão de crédito
+1568;VPM4;Contas a pagar - Contas
+1569;VPM6;Contas a pagar - Linhas IRF
+157;CSV4;Estorno NF de saída de correção - valor imposto por documento
+1570;VPM7;Contas a pagar - Valor do imposto por documento
+1571;VPM8;Contas a pagar - entradas TDS
+1572;VRT1;Relatório da nota fiscal - Linhas
+1573;VRT2;Info tab.relatório cta.fiscal
+1574;VTG1;Definição de imposto
+1575;VTR1;Grupos de imposto
+1576;VTR2;Filtro tipo doc.
+1577;VTR3;Filtro série
+1578;WDD1;Documentos para autorização - autorizadores
+1579;WDD2;Documentos para autorização - condições
+158;CSV5;Estorno da nota fiscal de saída de correção - IRF
+1580;WHT1;Definição do imposto retido na fonte
+1581;WHT2;Definição IRF - linhas 2
+1582;WHT3;Intervalo de valores
+1583;WKO1;Instruções de trabalho - linhas
+1584;WLS1;Processador potencial de tarefas
+1585;WLS2;Dados de entrada de tarefas
+1586;WLS3;Notas de tarefas
+1587;WLS4;Dados de saída da tarefa
+1588;WLS5;Informações de mapeamento do campo de tarefa
+1589;WOR1;Ordem de produção - linhas
+159;CSV6;Estorno NF de saída de correção - prestações
+1590;WOR2;Ordem de produção - base
+1591;WOR3;Ordem de produção - encerramento
+1592;WPK1;Parâmetro ou filtro dos pacotes de dashboard
+1593;WPK2;Valor discreto dos pacotes de dashboard
+1594;WPK3;Cor de legendas de dashboard
+1595;WPK4;Valor de cor de legendas de dashboard
+1596;WST1;Nível de confirmação - linhas
+1597;WTC1;Certificados de imposto retido na fonte - Grupos de IRF nos certificados
+1598;WTC2;Certificados de imposto retido na fonte - Documentos nos grupos de IRF
+1599;WTD1;Datas de imposto retido
+16;BTA1;Brasil - ajuste de impostos - tipos de impostos
+160;CSV7;Estorno NF saída correção - embalagens de entrega
+1600;WTD2;Intervalos de valor
+1601;WTD3;Detalhes de códigos de IRP para PN
+1602;WTD4;Detalhes dos códigos de imposto retido na fonte para item
+1603;WTD5;Detalhes dos códigos de imposto retido na fonte para frete
+1604;WTM1;Modelos de autorização - Fabricantes
+1605;WTM2;Modelos de confirmação - níveis
+1606;WTM3;Modelos de autorização - Documentos
+1607;WTM4;Modelos de autorização - Condições
+1608;WTM5;Modelos de autorização - consultas
+1609;WTQ1;Solicitação de transferência de estoque - linhas
+161;CSV8;Estorno NF saída correção - itens na embalagem
+1610;WTQ10;Solicitação de transferência de estoque - Estrutura da linha
+1611;WTQ12;Solicitação de transferência de estoque - Isenção de imposto
+1612;WTQ13;Linhas da solicitação de transferência de estoque - Despesas adicionais distribuídas
+1613;WTQ14;Solicitação de transferência de estoque - Montagem - Linhas
+1614;WTQ15;Solicitação de transferência de estoque - adiantamento transferido aplicado
+1615;WTQ16;Solicitação de transferência de estoque - Propriedades SnB
+1616;WTQ17;Solicitação de transferência de estoque - processo de importação
+1617;WTQ18;Solicitação de transferência de estoque - processo de exportação
+1618;WTQ19;Solicitação de transferência de estoque - Dados de alocação de depósito
+1619;WTQ2;Solicitação de transferência de estoque - Frete - Linhas
+162;CSV9;Estorno NF saída correção - adiant.transferido
+1620;WTQ20;Despesas Intrastat
+1621;WTQ21;Solicitação de transferência de estoque - informação de referência do documento
+1622;WTQ22;Solicitação de transferência de estoque - Custos do recurso
+1623;WTQ23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1624;WTQ3;Solicitação de transferência de estoque - despesas adicionais
+1625;WTQ4;Solicitação de transferência de estoque - Montante de imposto por documento
+1626;WTQ5;Solicitação de transferência de estoque - Imposto retido na fonte
+1627;WTQ6;Solicitação de transferência de estoque - Prestações
+1628;WTQ7;Solicitação de transferência de estoque - Pacotes de entrega
+1629;WTQ8;Solicitação de transferência de estoque - Itens no pacote
+163;CTG1;Layout da prestação
+1630;WTQ9;Solicitação de transferência de estoque - adiantamento transferido
+1631;WTR1;Transferência do estoque - linhas
+1632;WTR10;Transferência de estoque - Estrutura de linhas
+1633;WTR12;Transferência do estoque - ampliação imposto
+1634;WTR13;Linhas transferência estoque - despesas adicionais distribuídas
+1635;WTR14;Inventory Transfer - Assembly - Rows
+1636;WTR15;Transf.nota fiscal - adiant.aplic.transf.
+1637;WTR16;Inventory Transfer - SnB properties
+1638;WTR17;Transferência de estoque - processo de importação
+1639;WTR18;Transferência de estoque - processo de exportação
+164;CTNS;Configuração da notificação da transação
+1640;WTR19;Transferência de estoque - Dados de alocação de depósito
+1641;WTR2;Transferência de estoque - Despesas adicionais - Linhas
+1642;WTR20;Despesas Intrastat
+1643;WTR21;Transferência de estoque - informação de referência do documento
+1644;WTR22;Transferência de estoque - Custos do recurso
+1645;WTR23;Nota fiscal de entrada - Cadastro do ativo selecionado
+1646;WTR3;Transferência do estoque - Despesas adicionais
+1647;WTR4;Transferência de estoque - Valor de imposto por documento
+1648;WTR5;Transferência do estoque - imposto retido na fonte
+1649;WTR6;Transferência de estoque - Prestações
+165;CTR1;Contrato de serviços - itens
+1650;WTR7;Transferência de estoque - Embalagens de entrega
+1651;WTR8;Transferência de estoque - Itens na embalagem
+1652;WTR9;Transferência de estoque - adiant.transf.
+1653;WTX1;Transações IRF - Linhas
+1654;XAP1;Página de XAPP
+1655;XAP2;Widget XAPP
+1656;XAP3;Filtro XAP
+1657;XAP4;Item do widget
+1658;XRDBV;XLR company DB version
+1659;XROBJ;XLR Objetos de relatório da empresa
+166;CTR2;Service Contract - Recurring Transactions
+1660;XRREL;XLR Objetos de relatório da empresa
+1661;XRUDF;XLR company UDF
+1662;XRXLS;XLR company XLS
+1663;XRXML;XLR company XML
+167;CUL1;Log de estatísticas de uso do cliente
+168;CUMF;Pasta
+169;CUMI;Meus itens de menu
+17;BTA2;Ajuste de impostos do Brasil - impostos pagos antecipadamente
+170;DAB1;Consultas de dashboard
+171;DADB;Saldo DSA arquivamento de dados
+172;DAL1;Mapeamento entre item de formulário e coluna do dashboard
+173;DAR1;Arquivamento dados - log transação
+174;DAR2;Arquivamento dados - log transação
+175;DAR3;Arquivo de dados - documentos de próprio punho
+176;DATB;Saldo imposto arquivo de dados
+177;DBADM;Usuário do BD com acesso de leitura
+178;DDT1;Hierarquia dedução do imposto retido na fonte - linhas
+179;DGP1;Lista de clientes
+18;BTC1;Códigos internos da operação bancária - contas
+180;DGP2;Outros critérios de seleção
+181;DGP3;Outras opções de consolidação
+182;DGP4;Lista de locais de negócio
+183;DGP5;Sort By List
+184;DLN1;Remessa - linhas
+185;DLN10;Entrega - estrutura de linhas
+186;DLN12;Remessa - ampliação de imposto
+187;DLN13;Linhas entrega - despesas distribuídas
+188;DLN14;Delivery Notes - Assembly - Rows
+189;DLN15;Entrega - Adiant.aplicado transferido
+19;BTF1;Pré-lançamento contábil - linhas
+190;DLN16;Delivery - SnB properties
+191;DLN17;Entrega - processo de importação
+192;DLN18;Entrega - processo de exportação
+193;DLN19;Entrega - Dados de alocação do depósito
+194;DLN2;Notas de entrega - Despesas adicionais - Linhas
+195;DLN20;Despesas Intrastat
+196;DLN21;Entrega - informação de referência do documento
+197;DLN22;Entrega - Custos do recurso
+198;DLN23;Nota fiscal de entrada - Cadastro do ativo selecionado
+199;DLN3;Notas de entrega - Despesas adicionais
+2;BGT1;Orçamento - linhas
+20;BTF2;Imposto retido na fonte com comprovante do diário - Histórico
+200;DLN4;Entrega - valor do imposto por documento
+201;DLN5;Entrega - imposto retido
+202;DLN6;Entrega de mercadoria - prestações
+203;DLN7;Embalagens de entrega
+204;DLN8;Itens na embalagem - entrega
+205;DLN9;Entrega - adiant.transferido
+206;DMW1;Lista de consultas
+207;DOC20;Despesas Intrastat
+208;DOC23;Nota fiscal de entrada - Cadastro do ativo selecionado
+209;DPI1;Adiantamento de contas a receber - linhas
+21;CASE;Upgrade reconciliação interna 2007A
+210;DPI10;Adiantamento de contas a receber - estrutura de linhas
+211;DPI11;Adiant.cliente - detalhe adiant.transf.
+212;DPI12;Adiantamento recebido - ampliação de imposto
+213;DPI13;Linhas adiantamento C/R - despesas distribuídas
+214;DPI14;A/R Down Payment - Assembly - Rows
+215;DPI15;Adiant.cliente - adiant.aplic.transf.
+216;DPI16;A/R Down Payment - SnB properties
+217;DPI17;Adiantamento de cliente - processo de importação
+218;DPI18;Adiantamento de cliente - processo de exportação
+219;DPI19;Adiantamento de contas a receber - Dados de alocação do depósito
+22;CASE1;Upgrade reconciliação interna 2007A
+220;DPI2;Adiantamento de contas a receber - Despesas adicionais - Linhas
+221;DPI20;Despesas Intrastat
+222;DPI21;Adiantamento de cliente - informação de referência de documento
+223;DPI22;Adiantamento de cliente - Custos do recurso
+224;DPI23;Nota fiscal de entrada - Cadastro do ativo selecionado
+225;DPI3;Adiantamento C/R - Despesas adicionais
+226;DPI4;Adiantamento de contas a receber - valor do imposto por documento
+227;DPI5;Adiantamento de contas a receber - imposto retido na fonte
+228;DPI6;Adiantamento de contas a receber - prestações
+229;DPI7;Embalagens de entrega - adiantamento C/R
+23;CCAL;Definição do nível do plano de contas chinês
+230;DPI8;Itens na embalagem - adiantamento de contas a receber
+231;DPI9;Adiantamento recebido - adiant.transferido
+232;DPO1;Adiantamento C/P - linhas
+233;DPO10;Adiantamento de contas a pagar - estrutura de linhas
+234;DPO12;Adiantamento - ampliação do imposto
+235;DPO13;Linhas adiantamento C/P - despesas distribuídas
+236;DPO14;A/P Down Payment - Assembly - Rows
+237;DPO15;Adiant.p/fornecedor - adiant.aplic.transferido
+238;DPO16;A/P Down Payment - SnB properties
+239;DPO17;Adiantamento para fornecedor - processo de importação
+24;CCFG;Configuração da empresa
+240;DPO18;Adiantamento para fornecedor - processo de exportação
+241;DPO19;Adiantamento de contas a pagar - Dados de alocação do depósito
+242;DPO2;Adiantamento de contas a pagar - Despesas adicionais - Linhas
+243;DPO20;Despesas Intrastat
+244;DPO21;Adiantamento para fornecedor - informação de referência do documento
+245;DPO22;Adiantamento para fornecedor - Custos do recurso
+246;DPO23;Nota fiscal de entrada - Cadastro do ativo selecionado
+247;DPO3;Adiantamento C/P - Despesas adicionais
+248;DPO4;Adiantamento de contas a pagar - valor do imposto por documento
+249;DPO5;Adiantamento de contas a pagar - imposto retido na fonte
+25;CCPD;Encerramento do período
+250;DPO6;Adiantamento efetuado - prestações
+251;DPO7;Embalagens de entrega - adiantamento C/R
+252;DPO8;Itens na embalagem - adiantamento de contas a pagar
+253;DPO9;Adiantamento efetuado - adiant.transferido
+254;DPS1;Depósito - linhas
+255;DRF1;Esboço - linhas
+256;DRF10;Esboço - estrutura de linhas
+257;DRF12;Esboço - ampliação de imposto
+258;DRF13;Linhas esboço - despesas distribuídas
+259;DRF14;Draft - Assembly - Rows
+26;CCS1;Determinação de contagem de ciclo - Subtabela
+260;DRF15;Esboço - Adiant.aplic.transf.
+261;DRF16;Esboço - enviado não faturado - linhas
+262;DRF17;Esboço- processo de importação
+263;DRF18;Esboço - processo de exportação
+264;DRF19;Esboço - Dados de alocação do depósito
+265;DRF2;Esboço - Despesas adicionais - Linhas
+266;DRF20;Despesas Intrastat
+267;DRF21;Esboço - informação de referência de documento
+268;DRF22;Esboço - Custos do recurso
+269;DRF23;Nota fiscal de entrada - Cadastro do ativo selecionado
+27;CDC1;Desconto - linhas
+270;DRF3;Esboço - Despesas adicionais
+271;DRF4;Documentos de esboço - imposto
+272;DRF5;Documentos esboço - imposto retido na fonte
+273;DRF6;Esboços do documento - prestações
+274;DRF7;Embalagens de entrega - esboços
+275;DRF8;Itens na embalagem - esboço
+276;DRF9;Esboço - adiantamento transferido
+277;DRN1;Execução de depreciação - Lançamento
+278;DRN2;Execução da depreciação - Lançamento - Ativo
+279;DSC1;Contas bancárias da empresa
+28;CDIC;Dicionário
+280;DTP1;Tipos de depreciação - linhas
+281;DUT1;Dunning Term Array1
+282;DWZ1;Array1 assistente de advertência - filtro PN
+283;DWZ2;Dunning Wizard Array 2-Invoice Filter
+284;DWZ3;Array de assistente de advertência 3 - nota fiscal de serviço recomendado
+285;DWZ4;Grade de paginação quádrupla da matriz do assistente de advertência
+286;EBL1;Dados do relatório de balanço eletrônico
+287;ECM1;Parâmetros para vários tipos de comunicação eletrônica
+288;ECM2;Transações eletrônicas
+289;ECM3;Status e logs para ações na comunicação eletrônica
+29;CFH1;Relatório da demonstração do fluxo de caixa - histórico - linhas
+290;EDG1;Linhas de grupos de descontos
+291;EJB1;Assistente ERV JAb - Signatários
+292;EJB2;Lista de docs.para assistente ERV-JAb
+293;EJD1;ERV JAb - Lista de signatários
+294;EML1;Log de e-mail - Linhas
+295;EOY1;Fim do exercício objs.definidos pelo usuário
+296;ERX1;Nº registro imposto seletivo - linhas
+297;FAA1;Atributos do ativo - linhas
+298;FAC1;Alteração de parâmetro do ativo fixo - linhas
+299;FAC2;Alteração no parâmetro do ativo fixo - alteração no período de controle
+3;BGT2;Orçamento - Contabilidade de custos
+30;CFUS;Estatísticas de utilização da funcionalidade
+300;FAM1;Migração de dados de ativo fixo - linhas
+301;FAR1;Reavaliação de ativos fixos - linhas
+302;FCT1;Previsão de vendas - linhas
+303;FIX1;Transação de ativo fixo - linhas
+304;FLT1;856 Relatório - critérios de seleção
+305;FML1;Declaração do parâmetro da fórmula do imposto
+306;FND1;Numeração da página - Séries de documentos
+307;FNS1;Numeração da página - Séries canceladas
+308;FRC1;Ampliar categoria para relatório financeiro
+309;FTR1;Transferência - Linhas
+31;CHD1;Cheques para esboços de pagamento - linhas
+310;FTR2;Transferência - Área de lançamentos contábeis manuais
+311;FTR3;Transferência - Áreas de item
+312;FTT1;Importação do modelo financeiro - arquivos
+313;GBI1;GBI linha 1 - livro contábil eletrônico
+314;GBI10;GBI linha 10 - demonstração do fluxo de caixa da empresa
+315;GBI11;GBI linha 11 - provisão desvalorização de ativos empresariais
+316;GBI12;GBI linha 12 - relatório de modificação dos direitos e interesses do acionista
+317;GBI13;GBI linha 13 - relatório de distribuição do lucro da empresa
+318;GBI14;GBI linha 14 - demonstração do fluxo de caixa da pequena empresa
+319;GBI15;GBI linha 15 - relatório detalhado IVA a pagar da empresa
+32;CHO1;Cheques para pagamento - linhas
+320;GBI16;GBI linha 16 - empregados
+321;GBI2;GBI linha 2 - cadastros de conta contábil
+322;GBI3;GBI linha 3 - departamentos
+323;GBI4;GBI linha 4 - parceiros de negócios
+324;GBI5;GBI linha 5 - projetos
+325;GBI6;GBI linha 6 - saldo da conta contábil
+326;GBI7;GBI linha 7 - comprovantes contábeis
+327;GBI8;GBI linha 8 - balanço da empresa
+328;GBI9;GBI linha 9 - demonstração de resultados da empresa
+329;GFL1;Regras de filtro de grade
+33;CHO2;Cheques para pagamento - status de impressão
+330;GFL2;Nome do filtro da grade
+331;GPA1;Ajuste do lucro bruto - Documentos
+332;GPA2;Ajustes no lucro bruto - Parâmetros
+333;GPA3;Ajuste do lucro bruto - Detalhes do lançamento contábil manual
+334;GPA4;Ajuste do lucro bruto - Contas de detalhes do lançamento contábil manual
+335;GPA5;Ajuste de custo do produto - recálculo do custo do produto
+336;GPA6;Ajuste de custo do produto - reavaliações aplicadas de material
+337;GPA7;Ajuste de custo do produto - detalhes de lançamento contábil manual
+338;GPA8;Ajuste de custo do produto - linhas do documento MRV
+339;GPA9;Ajustes de lucro bruto aplicado
+34;CIF1;Informações esepcíficas ao país
+340;GPC1;Atribuição de autoridade
+341;GTI1;Detalhes da fatura GTS
+342;GTM1;Detalhes do objeto de mapeamento GTS
+343;HEM1;Informação sobre ausência
+344;HEM10;Atribuição da filial do empregado
+345;HEM2;Educação
+346;HEM3;Perfis empregado
+347;HEM4;Emprego anterior
+348;HEM5;Autorização de propriedade de dados do empregado
+349;HEM6;Funções de empregado
+35;CIN1;Nota fiscal de correção - linhas
+350;HEM7;Pagamentos de poupança
+351;HET1;Detalhes de transferência de empregado
+352;HFC1;Ocultar configuração da função - linhas
+353;HFC2;Ocultar configuração da função - linhas
+354;HLD1;Datas de feriados
+355;HMM1;Tabela inferior de OHMM
+356;HMM2;Tabela inferior de OHHM
+357;HMM3;Tabela inferior OHMM
+358;HTM1;Membros da equipe
+359;IBT1;Transações do nº de lote
+36;CIN10;Nota fiscal de correção - estrutura de linha
+360;ICD1;Esboço da contagem de estoque - linhas
+361;ICD10;Esboço de contagem de estoque - Contador individual - Linha da UM
+362;ICD11;Esboço de contagem de estoque - Contador individual - Linha de série e lote
+363;ICD2;Esboço da contagem de estoque - UM
+364;ICD3;Esboço da contagem de estoque - número de lote e série
+365;ICD4;Esboço de contagem de estoque - Contadores da equipe
+366;ICD5;Esboço de contagem de estoque - Contador da equipe - Linha de quantidade contada
+367;ICD6;Esboço de contagem de estoque - Contador da equipe - Linha da UM
+368;ICD7;Esboço de contagem de estoque - Contador da equipe - Linha de série e lote
+369;ICD8;Esboço de contagem de estoque - Contadores individuais
+37;CIN12;Nota fiscal de correção - ampliação do imposto
+370;ICD9;Esboço de contagem de estoque - Contador individual - Linha de quantidade contada
+371;IEI1;Fatura de imposto seletivo de entrada - Linhas
+372;IEI10;Fatura de imposto seletivo de entrada - estrutura de linhas
+373;IEI11;FISE - det.adiant.transferido
+374;IEI12;Fatura imposto seletivo de entrada - Ampliação do imposto
+375;IEI13;Linhas da fatura do imposto seletivo de entrada - despesas distribuídas
+376;IEI14;Incoming Excise Invoice - Assembly - Rows
+377;IEI15;FISE - adiant.aplic.transf.
+378;IEI16;Incoming Excise Invoice - SnB properties
+379;IEI17;Fatura do imposto seletivo de entrada - processo de importação
+38;CIN13;Linhas de nota fiscal de correção - despesas distribuídas
+380;IEI18;Fatura do imposto seletivo de entrada - processo de exportação
+381;IEI19;Fatura de imposto seletivo de entrada - Dados de alocação do depósito
+382;IEI2;Fatura do imposto seletivo de entrada - despesas adicionais - histórico - linhas
+383;IEI20;Despesas Intrastat
+384;IEI21;Fatura do imposto seletivo de entrada - informação de referência do documento
+385;IEI22;Fatura de imposto seletivo de entrada - Custos do recurso
+386;IEI23;Nota fiscal de entrada - Cadastro do ativo selecionado
+387;IEI3;Fatura de imposto seletivo de entrada - Despesas adicionais
+388;IEI4;Fatura imposto seletivo entrada - Valor imposto por documento
+389;IEI5;Fatura imposto seletivo entrada - Imposto retido na fonte
+39;CIN17;Fatura de correção - Dados de alocação do depósito
+390;IEI6;Fatura imposto seletivo entrada - Prestações
+391;IEI7;Embalagens de entrega - Fatura imposto seletivo entrada
+392;IEI8;Fatura imposto seletivo entrada - Itens na embalagem
+393;IEI9;Fatura imposto seletivo entrada - adiant.transferido
+394;IGE1;Saída de mercadorias - linhas
+395;IGE10;Saída de mercadorias - estrutura de linhas
+396;IGE12;Saída de mercadorias - ampliação de imposto
+397;IGE13;Linhas saída de mercadoria - despesas distribuídas
+398;IGE14;Goods Issue - Assembly - Rows
+399;IGE15;Saída mercadorias - Adiant.aplic.transf.
+4;BGT3;Orçamento - Linhas da contabilidade de custos
+40;CIN18;Nota fiscal de correção - Processo de exportação
+400;IGE16;Goods Issue - SnB properties
+401;IGE17;Saída de mercadorias - processo de importação
+402;IGE18;Saída de mercadorias - processo de exportação
+403;IGE19;Saída de mercadorias - Dados de alocação do depósito
+404;IGE2;Saída de mercadoria - Despesas adicionais - Linhas
+405;IGE20;Despesas Intrastat
+406;IGE21;Saída de mercadorias - informação de referência do documento
+407;IGE22;Saída de mercadorias - Custos do recurso
+408;IGE23;Nota fiscal de entrada - Cadastro do ativo selecionado
+409;IGE3;Saída de mercadoria - Despesas adicionais
+41;CIN19;Fatura de correção - Dados de alocação do depósito
+410;IGE4;Saída de mercadorias - valor imposto por documento
+411;IGE5;Saída de mercadoria - imposto retido
+412;IGE6;Saída de mercadorias - prestações
+413;IGE7;Embalagens de entrega - saída de mercadorias
+414;IGE8;Itens na embalagem - saída de mercadorias
+415;IGE9;Saída de mercadorias - adiant.transferido
+416;IGN1;Entrada de mercadorias - linhas
+417;IGN10;Entrada de mercadorias - estrutura de linhas
+418;IGN12;Entrada de mercadorias - ampliação de imposto
+419;IGN13;Linhas entrada de mercadoria - despesas distribuídas
+42;CIN2;Nota fiscal de saída de correção - Despesas adicionais - Linhas
+420;IGN14;Goods Receipt - Assembly - Rows
+421;IGN15;Entrada mercadorias - Adiant.aplic.transf.
+422;IGN16;Goods Receipt - SnB properties
+423;IGN17;Entrada de mercadorias - processo de importação
+424;IGN18;Entrada de mercadorias - processo de exportação
+425;IGN19;Recebimento de mercadoria - Dados de alocação do depósito
+426;IGN2;Entrada de mercadoria - Despesas adicionais - Linhas
+427;IGN20;Despesas Intrastat
+428;IGN21;Entrada de mercadorias - informação de referência do documento
+429;IGN22;Entrada de mercadoria - Custos do recurso
+43;CIN20;Despesas Intrastat
+430;IGN23;Nota fiscal de entrada - Cadastro do ativo selecionado
+431;IGN3;Entrada de mercadoria - Despesas adicionais
+432;IGN4;Entrada de mercadorias - valor do imposto por documento
+433;IGN5;Entrada de mercadoria - imposto retido
+434;IGN6;Entrada de mercadorias - prestações
+435;IGN7;Entrada de mercadorias - embalagens de entrega
+436;IGN8;Entrada de mercadorias - itens no pacote
+437;IGN9;Entrada de mercadorias - adiant.transferido
+438;ILM1;Det.série e lote da mens.log.estoque
+439;ILM2;Substituto conta de estoque
+44;CIN21;Fatura de correção - informação de referência do documento
+440;ILM3;Mensagem de registro dos componentes do recurso e não estocáveis
+441;IMT1;Dados conta no modelo selecionado
+442;IMT11;Componente da expressão calculada com sinal de especificação da conta no modelo específico
+443;INC1;Contegem de estoque - Linhas
+444;INC10;Contagem de estoque - Contadores individuais - Linha de UM
+445;INC11;Contagem de estoque - Contador individual - Linha de série e lote
+446;INC2;Contegem de estoque - UM
+447;INC3;Contagem de estoque - Número de série e lote
+448;INC4;Contagem de estoque - Contadores da equipe
+449;INC5;Contagem de estoque - Contador da equipe - Linha de quantidade contada
+45;CIN22;Fatura de correção - Custos do recurso
+450;INC6;Contagem de estoque - Contador da equipe - Linha da UM
+451;INC7;Contagem de estoque - Contador da equipe - Linha de série e lote
+452;INC8;Contagem de estoque - Contadores individuais
+453;INC9;Contagem de estoque - Contadores individuais - Linha de quantidade contada
+454;INV1;Nota fiscal de Saída - linhas
+455;INV10;Nota fiscal de Saída - estrut.linhas
+456;INV11;NF saída - detalhe adiantamento transferido
+457;INV12;Nota fiscal de saída - ampliação de imposto
+458;INV13;Linhas NF saída - despesas adicionais distribuídas
+459;INV14;A/R Invoice - Assembly - Rows
+46;CIN23;Nota fiscal de entrada - Cadastro do ativo selecionado
+460;INV15;NF saída - Adiant.aplic.transferido
+461;INV16;A/R Invoice - SnB properties
+462;INV17;Nota fiscal de saída - processo de importação
+463;INV18;Nota fiscal de saída - processo de exportação
+464;INV19;Nota fiscal de saída - Dados de alocação do depósito
+465;INV2;Nota Fiscal de Saída - Despesas adicionais - Linhas
+466;INV20;Despesas Intrastat
+467;INV21;Nota fiscal de saída - informação de referência do documento
+468;INV22;Nota fiscal de saída - Custos do recurso
+469;INV23;Nota fiscal de entrada - Cadastro do ativo selecionado
+47;CIN3;Nota fiscal de saída de correção - Despesas adicionais
+470;INV3;Nota fiscal de saída - Despesas adicionais
+471;INV4;Nota fiscal de saída - valor imposto por documento
+472;INV5;Nota fiscal de saída - imposto retido na fonte
+473;INV6;Nota Fiscal de Saída - prestações
+474;INV7;Nota fiscal de saída - embalagens de entrega
+475;INV8;NF de saída - itens na embalagem
+476;INV9;Nota Fiscal de Saída - adiant.transferido
+477;IOD1;Esboço do saldo inicial do estoque - Linhas
+478;IOD2;Esboço do saldo inicial de estoque - Número de lote e série
+479;IPD1;Esboço do lançamento de estoque - Linhas
+48;CIN4;Nota fiscal de correção - valor de imposto por documento
+480;IPD2;Esboço do lançamento de estoque - UM
+481;IPD3;Esboço do lançamento de estoque - Número de série e lote
+482;IPF1;Preços de custo - linhas
+483;IPF2;Preço de custo - custos
+484;IPF3;Despesas de importação - Resumo alfandegário
+485;IQI1;Saldo inicial de estoque - linhas
+486;IQI2;Saldo inicial do estoque - Número de série e lote
+487;IQR1;Inventory Posting - Rows
+488;IQR2;Lançamento de estoque - Unidade de medida
+489;IQR3;Lançamento de estoque - Número de série e lote
+49;CIN5;Nota fiscal de saída correção - imposto retido
+490;IRD1;Definição de relatório - linhas
+491;ISW1;Parceiros de negócios relatados
+492;ISW2;Itens declarados Intrastat
+493;ISW3;Linhas da declaração
+494;ITL1;Det.série e lote na transação
+495;ITM1;Itens - preços
+496;ITM10;Extensão OITM
+497;ITM11;Controle de períodos do item do ativo
+498;ITM12;UM no item
+499;ITM13;Atributos do ativo
+5;BNK1;Extrato - Lista de documentos
+50;CIN6;Nota fiscal de correção - prestações
+500;ITM2;Itens - Vários fornecedores preferidos
+501;ITM3;Itens - campos de localização
+502;ITM4;Pacote em itens
+503;ITM5;Projetos do item do ativo
+504;ITM6;Regras de distribuição do item do ativo
+505;ITM7;Parâmetros de depreciação do item do ativo
+506;ITM8;Saldos do item do ativo
+507;ITM9;Item - preços da unidade de medida
+508;ITR1;Reconciliação interna - linhas
+509;ITT1;Estrutura de produtos - Componente
+51;CIN7;Embalagens de entrega - nota fiscal de correção
+510;ITW1;Alerta da contagem de itens
+511;IVL1;Nível camada IVL
+512;IVM1;Detalhes do objeto de mapeamento da fatura
+513;IVRU;Utilitário avaliação do estoque
+514;IWB1;Backup de quantidades do nº de lote
+515;IWB2;Backup de quantidades de nº de série
+516;IWZ1;Histórico de reavaliação de contas
+517;IWZ2;Filtro do depósito de inflação
+518;IWZ3;Dados da última reavaliação de itens
+519;JDT1;Lçto.cont.manual - linhas
+52;CIN8;Itens na embalagem - nota fiscal de correção
+520;JDT2;Imposto retido - Histórico
+521;JST1;Ajuste TDS - Linhas
+522;KPI1;Campo do indicador-chave de desempenho
+523;KPI2;Escopo do indicador-chave de desempenho
+524;KPI3;Parâmetro ou filtro do indicador-chave de desempenho
+525;KPI4;Valor discreto do indicador-chave de desempenho
+526;KPI5;Variável da fórmula do indicador-chave de desempenho
+527;KPS1;Array de set KPI 1
+528;LGL1;Dados legais - linhas
+529;LLR1;Resultado da geração de relatório eletrônico - relatórios
+53;CIN9;Nota fiscal de correção - adiant.transf.
+530;MAB1;Abreviação do menu
+531;MABV;Abreviação do menu
+532;MAP1;Entrada e saída de mapeamento
+533;MAP2;Relação de entrada e saída de mapeamento
+534;MDC1;Depuração de cadastro - log
+535;MDC2;Depuração do cadastro - Log do cadastro
+536;MDP1;Depreciação manual - linhas
+537;MDP2;Depreciação manual - Área de lançamentos contábeis manuais
+538;MDP3;Depreciação manual - Áreas de item
+539;MDR1;Regra de distribuição manual - linhas
+54;CLG1;Check ins de atividade
+540;MIN1;Relatório nota fiscal mensal informação documento
+541;MIN2;Informação item da FM
+542;MIV1;Nota fiscal mensal de entrada - documento
+543;MIV2;NF entrada mensal - item
+544;MLS1;Listas de distribuição - destinatários
+545;MLT1;Traduções no idioma do usuário
+546;MPO1;Dados de mapeamento de valores
+547;MRV1;Relação de informações da reavaliação do inventário
+548;MRV2;Linhas FIFO de reavaliação do estoque
+549;MRV3;SNB da reavaliação do estoque
+55;CPA1;Categoria dos períodos - Mapeamento do material em processo
+550;MSN1;Cenário MRP - área de depósitos
+551;MSN2;Resultados da execução MRP
+552;MSN3;Informações de pegging MRP
+553;MSN4;Cenários MRP - array de itens
+554;MSN5;Documento específico do MRP
+555;NCP1;Novo mosaico do cockpit
+556;NCP2;Novo mosaico do cockpit
+557;NFN1;Não uma seqüência fiscal
+558;NNM1;Numeração de documentos - série
+559;NNM4;Série eletrônica
+56;CPI1;Nota fiscal de Entrada de correção - linhas
+560;NNM5;Numeração do documento - Números de série removidos
+561;OACD;Nota de crédito
+562;OACG;Categoria da conta
+563;OACK;Nº da confirmação
+564;OACM;Acumulação
+565;OACP;Categoria dos períodos
+566;OACQ;Capitalização
+567;OACR;Tipo de provisão
+568;OACS;Classes de ativo
+569;OACT;Contas contábeis
+57;CPI10;Nota fiscal entrada correção - estrutura da linha
+570;OADF;Address Formats
+571;OADG;Grupos de depreciação
+572;OADM;Administração
+573;OADT;Determinação da conta de ativos fixos
+574;OAGM;Argumentos na estrutura da integração
+575;OAGP;Nome do agente
+576;OAGS;Grupos do ativo
+577;OAIM;Mensagem de estoque de arquivo
+578;OALC;Custos de carregamento
+579;OALI;Itens alternativos 2
+58;CPI12;Nota fiscal entrada correção - ampliação do imposto
+580;OAMD;Relatório das diferenças de valor
+581;OARG;Grupos alfandegários
+582;OARI;Add-on - definições da empresa
+583;OASC;Categorias de segmentação de contas
+584;OASG;Segmentação de contas
+585;OAT1;Contrato básico - Linhas
+586;OAT2;Contrato básico - detalhes
+587;OAT3;Detalhes do item: atividade
+588;OAT4;Contrato guarda-chuva - transações recorrentes
+589;OATC;Anexos
+59;CPI13;Linhas NF entrada correção - despesas distribuídas
+590;OBAL;(----)
+591;OBAT;Atributo da posição do depósito
+592;OBBI;Indexador de Bebidas do Brasil
+593;OBBQ;Item - Número de série/lote - Acumulador do depósito
+594;OBCA;Código de alocação de encargos bancários
+595;OBCD;Cadastro do código de barras
+596;OBCG;Encargos bancários para transferência bancária
+597;OBDC;B1i - configuração DI
+598;OBFC;Configuração do campo do depósito
+599;OBFI;Indexador de Combustível do Brasil
+6;BNK2;Extrato - Lista de recomendações
+60;CPI14;A/P Correction Invoice - Assembly - Rows
+600;OBGD;Método de avaliação dos custos do orçamento
+601;OBGS;Cenário do orçamento
+602;OBGT;Orçamento
+603;OBIN;Posição no depósito
+604;OBMI;Multi-indexador do Brasil
+605;OBNH;Cabeçalho do extrato da conta
+606;OBNI;Indexador numérico do Brasil
+607;OBNK;Extrato bancário externo recebido
+608;OBOB;Resumo do objeto de negócios
+609;OBOC;Categoria do código de operação bancária externa
+61;CPI15;NF entrada corr.- adiant.aplic.transf.
+610;OBOD;Dados mestre BIOD
+611;OBOE;Boleto para pagamento
+612;OBOI;Widget de contagem
+613;OBOL;Ligação do objeto de negócios
+614;OBOS;Definição de box set
+615;OBOT;Bill Of Exchang Transaction
+616;OBOX;Definição da caixa
+617;OBPL;Local de negócio
+618;OBPP;Prioridades do PN
+619;OBRW;Widget do navegador
+62;CPI16;A/P Corr. Inv - SnB properties
+620;OBSI;Indexador de cadeia do Brasil
+621;OBSL;Subnível de depósito
+622;OBST;Boleto imposto de selo
+623;OBTA;Brasil - ajustes de imposto
+624;OBTC;Códigos internos da operação bancária
+625;OBTD;Lista de pré-lançamentos contábeis
+626;OBTF;Lançamento contábil manual
+627;OBTL;Log de transação do depósito
+628;OBTN;Cadastro nºs de lote
+629;OBTQ;Quantidades nº de lote
+63;CPI17;Nota fiscal de entrada de correção - processo de importação
+630;OBTW;Atributos de lote no local
+631;OBVL;Números de série e log de avaliação de lote
+632;OCBI;Cód.Bco.Central
+633;OCCD;Nºs CCD
+634;OCCS;Determinação de inventário rotativo
+635;OCCT;Tipo de centro de custo
+636;OCDC;Desconto
+637;OCDP;Data procedimento de encerramento
+638;OCDT;Pagamento cartão de crédito
+639;OCFH;Histórico da demonstração dos fluxos de caixa
+64;CPI18;Nota fiscal de entrada de correção - processo de exportação
+640;OCFP;CFOP para Nota Fiscal
+641;OCFT;Transação do fluxo de caixa - linhas
+642;OCFW;Item de linha do fluxo de caixa
+643;OCFX;Tipos de objeto de previsão de fluxo de caixa
+644;OCHD;Cheques para modelos de pagamento
+645;OCHF;312
+646;OCHH;Registro de cheques
+647;OCHO;Cheques para pagamento
+648;OCHP;ID do capítulo Índia
+649;OCIF;Configuração de campos Intrastat
+65;CPI19;Nota fiscal de entrada de correção - Dados de alocação do depósito
+650;OCIG;Códigos de CIG
+651;OCIN;Nota Fiscal de Saída de correção
+652;OCIP;Configuração de pacotes de integração
+653;OCLA;Status da atividade
+654;OCLG;Atividades
+655;OCLO;Ponto de reunião
+656;OCLS;Temas da atividade
+657;OCLT;Tipos de atividade
+658;OCMF;Funções comuns do cockpit de estilos do Fiori
+659;OCMM;Meio de comunicação
+66;CPI2;Nota fiscal de entrada de correção - Desp.adicionais - Linhas
+660;OCMN;Menu configurado
+661;OCMT;Concorrentes
+662;OCNA;Cód.CNAE
+663;OCNT;Países
+664;OCOG;Grupos de comissões
+665;OCPC;Configuração do Quick Copy
+666;OCPI;Nota fiscal de entrada de correção
+667;OCPL;Gerente de log do Quick Copy
+668;OCPN;Campanha
+669;OCPR;Pessoas de contato
+67;CPI20;Despesas Intrastat
+670;OCPT;Tabela principal de cockpit
+671;OCPV;Nota Fiscal de Entrada de correção: estorno
+672;OCQG;Características do PN
+673;OCR1;Regra de distribuição - Linhas
+674;OCRB;PN - conta bancária
+675;OCRC;Cartões de crédito
+676;OCRD;Parceiro de negócios
+677;OCRG;Grupos de PNs
+678;OCRH;Administração de cartões de crédito
+679;OCRN;Códigos de moeda
+68;CPI21;Fatura de correção de entrada - informação de referência do documento
+680;OCRP;Formas de pagamento
+681;OCRT;Lista de árvores de tabelas CRDB
+682;OCRV;Pagamentos a crédito
+683;OCRY;Países
+684;OCSC;Configuração do servidor Crystal
+685;OCSI;Nota Fiscal de Saída de correção
+686;OCSN;Série de certificado
+687;OCSQ;Seqüências de coluna
+688;OCST;Estados
+689;OCSV;Nota Fiscal de Saída de correção: estorno
+69;CPI22;Nota fiscal de entrada de correção - Custos do recurso
+690;OCTG;Condições de pgto.
+691;OCTR;Contratos de serviço
+692;OCTT;Modelo do contrato
+693;OCUC;Configuração CUS
+694;OCUL;Log de estatísticas de uso do cliente
+695;OCUP;Códigos de CUP
+696;OCYC;Ciclo
+697;ODAB;Dashboard
+698;ODAL;Vínculo entre dashboard e formulário
+699;ODAR;Arquivamento de dados
+7;BOC1;Código externo da operação bancária - linhas
+70;CPI23;Nota fiscal de entrada - Cadastro do ativo selecionado
+700;ODBN;Nºs lote - esboço - cadastro
+701;ODBW;Atributos esboço lote no local
+702;ODCC;Configuração de cache do dashboard
+703;ODCI;Intrastat - Configuração
+704;ODCR;Regra de verificação
+705;ODDG;Grupos dedução do imposto retido na fonte
+706;ODDT;Hierarquia dedução do imposto retido na fonte
+707;ODGL;Lista do grupo de deduções
+708;ODGP;Grupos de parâmetros geração do documento
+709;ODIM;Dimensão da contabilidade de custos
+71;CPI3;Nota fiscal entrada correção - despesas adicionais
+710;ODLL;Arquivo do algoritmo do código de barras
+711;ODLN;Entrega
+712;ODMC;Critérios da determinação da conta do Razão - Estoque
+713;ODMW;Migração de dados
+714;ODNF;Código Produto DNF
+715;ODOR;Débitos incertos
+716;ODOW;Propriedade de dados - objetos
+717;ODOX;Propriedade de dados - exceções
+718;ODPA;Áreas de depreciação do ativo fixo
+719;ODPI;Adiantamento de cliente
+72;CPI4;Nota fiscal de entrada de correção - valor do imposto por documento
+720;ODPO;Adiantamento para fornecedor
+721;ODPP;Pools de tipos de depreciação
+722;ODPS;Depósito
+723;ODPT;Depósito pré-datado
+724;ODPV;Valor de depreciação de ativos fixos
+725;ODRC;Critérios da determinação de conta do Razão - Recursos
+726;ODRF;Esboços
+727;ODRN;Execução da depreciação
+728;ODSC;Códigos do banco
+729;ODSL;Detalhe da linha de programação
+73;CPI5;Dados do imposto retido
+730;ODSN;Nºs série - esboço - cadastro
+731;ODSW;Atributos esboço nº série no local
+732;ODTP;Tipos de depreciação de ativos fixos
+733;ODTY;Tipo de documento boleto
+734;ODUN;Cartas de advertência
+735;ODUT;Condições de advertência
+736;ODWZ;Assistente de advertência
+737;OEBL;Balanço eletrônico
+738;OECDW;Assistente da ECD
+739;OECM;Tipos ou protocolos de comunicação eletrônica
+74;CPI6;Histórico de documentos - prestações
+740;OEDG;Grupos de descontos
+741;OEFDW;Assistente EFD
+742;OEGP;Grupo de e-mails
+743;OEI1;Fatura de imposto seletivo de saída - Linhas
+744;OEI10;Fatura de imposto seletivo de saída - Estrutura de linhas
+745;OEI11;FISS - detalhe adiant.transferido
+746;OEI12;Fatura de imposto seletivo de saída - Ampliação do imposto
+747;OEI13;Linhas fatura imposto seletivo saída - Despesas distribuídas
+748;OEI14;Outgoing Excise Invoice - Assembly - Rows
+749;OEI15;FISS - adiant.aplic.transf.
+75;CPI7;Nota fiscal entrada correção - embalagens de entrega
+750;OEI16;Outgoing Excise Invoice - SnB properties
+751;OEI17;Fatura do imposto seletivo de saída - processo de importação
+752;OEI18;Fatura do imposto seletivo de saída - processo de exportação
+753;OEI19;Fatura de imposto seletivo de saída - Dados de alocação do depósito
+754;OEI2;FISS - linhas de despesas adicionais
+755;OEI20;Despesas Intrastat
+756;OEI21;Fatura do imposto seletivo de saída - informação de referência do documento
+757;OEI22;Fatura de imposto seletivo de saída - Custos do recurso
+758;OEI23;Nota fiscal de entrada - Cadastro do ativo selecionado
+759;OEI3;FISS - despesas adicionais
+76;CPI8;Nota fiscal de entrada correção - itens na embalagem
+760;OEI4;Fatura de imposto seletivo saída - Valor de imposto por documento
+761;OEI5;Fatura imposto seletivo saída - Imposto retido na fonte
+762;OEI6;Fatura imposto seletivo saída - Prestações
+763;OEI7;Embalagens de entrega - Fatura de imposto seletivo de saída
+764;OEI8;Fatura de imposto seletivo de saída - Itens na embalagem
+765;OEI9;Fatura de imposto seletivo de saída - adiant.transferido
+766;OEJB;Detalhes de execução do assistente para ERV-JAb
+767;OEJD;Detalhes da empresa para ERV-JAb
+768;OEML;Log de e-mail
+769;OENC;Tipos de codificação
+77;CPI9;Nota fiscal entrada correção - adiant.transferido
+770;OERN;Numeração registro imposto seletivo
+771;OERT;Tipo numeração registro imposto seletivo
+772;OERX;Ext.numeração registro imposto seletivo
+773;OEXD;Definição de despesas adicionais
+774;OEXT;Tipos de despesa
+775;OFAA;Atributos do ativo
+776;OFAC;Alteração de parâmetro do ativo fixo
+777;OFAM;Migração de dados de ativo fixo
+778;OFAR;Reavaliação de ativos fixos
+779;OFCT;Previsão de vendas
+78;CPL1;Cópia rápida - log de instância
+780;OFIX;Transações do ativo fixo
+781;OFML;Tabela mestre da fórmula do imposto
+782;OFND;Documentos de numeração de página
+783;OFNS;Número de página - série
+784;OFPC;Modificação do exercício do ativo fixo
+785;OFPR;Período contábil
+786;OFRC;Categorias do relatório financeiro
+787;OFRM;Formato do arquivo
+788;OFRT;Modelos relatórios financeiros
+789;OFTR;Transferência
+79;CPN1;Campanha - PNs
+790;OFTT;Importação do modelo financeiro
+791;OFYM;Mestre exercício fiscal
+792;OGAR;Regras avançadas da conta contábil
+793;OGBI;Interface GB: informação geral
+794;OGFL;Filtro de grade
+795;OGPA;Ajuste do lucro bruto
+796;OGPC;Código de pagamento governamental
+797;OGRS;Regras avançadas da conta do Razão para recursos
+798;OGSP;Envio de mercadoria
+799;OGTI;Fatura GTS
+8;BOE1;Letra de câmbio para pagamento - linhas
+80;CPN2;Campanha - itens
+800;OGTM;Objeto de mapeamento GTS
+801;OHED;Tipos de formação
+802;OHEM;Empregados
+803;OHET;Objeto: Transferência de empregado de RH
+804;OHFC;Ocultar configuração de funções
+805;OHLD;Tabela de feriados
+806;OHMM;Gerenciamento de modelo SAP HANA
+807;OHPS;Posição do empregado
+808;OHST;Status do empregado
+809;OHTM;Equipes de empregados
+81;CPN3;Campanha - parceiros
+810;OHTR;Motivo da rescisão
+811;OHTY;Tipos de empregado
+812;OIBQ;Item - Acumulador do depósito
+813;OIBT;Nº de lote para item
+814;OICD;Esboço da contagem de estoque
+815;OIDC;Indicador
+816;OIDT;Tipo de ID de empregado
+817;OIDX;Códigos IPN
+818;OIEI;Fatura de imposto seletivo de entrada
+819;OIGE;Saída de mercadorias
+82;CPRC;Pessoas de contato - meio de comunicação
+820;OIGN;Entrada de mercadoria
+821;OIGW;Grupo de itens - Depósito
+822;OILM;Mensagem log estoque
+823;OIMT;Modelos para LC no estoque
+824;OINC;Contagem de estoque
+825;OIND;Operação triangular
+826;OINM;Diário do depósito
+827;OINS;Cartão de equipamento do cliente
+828;OINV;Nota Fiscal de Saída
+829;OIOD;Esboço do saldo inicial do estoque
+83;CPT1;Subtabela de cokpit
+830;OIPD;Esboço do lançamento de estoque
+831;OIPF;Despesas de importação
+832;OIPO;Número interno da ordem de pagamento
+833;OIQI;Saldo inicial do inventário
+834;OIQR;Lançamento de estoque
+835;OIRC;Categoria de relatório interativo
+836;OIRD;Definição do relatório
+837;OIRT;Preço dos juros
+838;OIST;Instrução boleto
+839;OISW;Assistente Intrastat
+84;CPV1;Estorno NF entrada correção - linhas
+840;OITB;Grupos de itens
+841;OITG;Propriedades do item
+842;OITL;Log transações do estoque
+843;OITM;Itens
+844;OITR;Reconciliação interna
+845;OITT;Árvore de produtos
+846;OITW;Itens - depósito
+847;OIVE;Devoluções com base no FIFO
+848;OIVK;IVL Vs OINM Keys
+849;OIVL;Diário do depósito
+85;CPV10;Estorno NF de entrada - estrut.linhas
+850;OIVM;Objeto de mapeamento de fatura GTS
+851;OIVQ;Tabela de trabalho da fila FIFO
+852;OIWB;Itens - Backup de dados da contagem de depósito
+853;OIWZ;Assistente de inflação
+854;OJDT;Lançamento contábil manual
+855;OJET;Tipo de documento de lançamento no diário
+856;OJPE;Calendário japonês (Era)
+857;OJST;Ajuste TDS
+858;OKPF;Fator do KPI
+859;OKPI;Pacote do indicador-chave de desempenho
+86;CPV12;Estorno NF entrada correção - ampliação do imposto
+860;OKPS;Grupo KPI
+861;OKRT;Tipo de relatório de imposto
+862;OLCT;Local
+863;OLGL;Dados legais
+864;OLGT;Unidades de comprimento
+865;OLLF;Formato da lista legal
+866;OLLR;Resultado da geração do relatório eletrônico
+867;OLNG;Tabela do idioma usuário
+868;OLNK;Links de ajuda
+869;OLTB;Tabela saldo imposto baseada no local
+87;CPV13;Linhas NF entrada correção - despesas distribuídas
+870;OMAO;Configuração do add-on do celular
+871;OMAP;Elementos de mapeamento
+872;OMDC;Depuração de cadastro
+873;OMDP;Depreciação manual
+874;OMDR;Regra de distribuição manual
+875;OMGP;Grupo de materiais
+876;OMIN;Nota fiscal mensal saída
+877;OMIV;Nota fiscal de entrada mensal
+878;OMLS;Lista de distribuição
+879;OMLT;Tradução multilíngüe
+88;CPV14;A/P Correction Invoice Reversal - Assembly - Rows
+880;OMPF;Preferências de mensagem
+881;OMPO;Objeto de mapeamento de valores
+882;OMPS;Mapas
+883;OMRC;Fabricantes
+884;OMRL;Reavaliação avançada de inventário
+885;OMRV;Reavaliação do estoque
+886;OMSG;Opções de serviço de mensagens
+887;OMSN;Cenários MRP
+888;OMTC;Extrato da conta - critérios de concordância
+889;OMTH;Histórico de reconciliação
+89;CPV15;Estorno NF entrada correção - adiant.aplic.transf.
+890;OMTP;Tipo de material
+891;ONCM;Código NCM
+892;ONCP;Nova página do cockpit
+893;ONFM;Modelo da nota fiscal
+894;ONFT;Categoria de imposto da nota fiscal (Brasil)
+895;ONOA;Natureza do contribuinte
+896;OOAT;Contrato guarda-chuva
+897;OOCC;Código de ocorrência do boleto
+898;OOCR;Regra distribuição
+899;OOEI;Fatura de imposto seletivo de saída
+9;BOT1;Boleto - transações
+90;CPV16;A/P Correction Invoice Reversal - SnB properties
+900;OOFR;Causa do erro
+901;OOIN;Interessado em
+902;OOIR;Nível de juros
+903;OOND;Setores industriais
+904;OOPR;Oportunidade de vendas
+905;OORL;Relações
+906;OOSR;Fonte de informação
+907;OOST;Fase da oportunidade
+908;OPAC;Empresas PAC
+909;OPBD;Tipo de documento
+91;CPV17;Estorno de nota fiscal de entrada de correção - processo de importação
+910;OPBU;ID do orçamento
+911;OPCH;Nota Fiscal de Entrada
+912;OPCI;Instância da lista de verificação do processo
+913;OPCT;Modelo da lista de verificação de processo
+914;OPDF;Modelo de pagamento
+915;OPDN;Recebimento de mercadorias
+916;OPDT;Texto predefinido
+917;OPEX;Tabela de resultados de pagamento
+918;OPFT;Definições do portfólio
+919;OPHA;Subprojeto do gerenciamento de projetos
+92;CPV18;Estorno de nota fiscal de entrada de correção - processo de exportação
+920;OPID;Indicador do período
+921;OPJT;Plano do projeto
+922;OPKG;Tipos de embalagem
+923;OPKL;Lista de picking
+924;OPLN;Listas de preços
+925;OPMC;Configuração do gerenciamento de projetos
+926;OPMG;Documento do gerenciamento de projetos
+927;OPMX;Folha de pagamento
+928;OPOI;Ordem de pagamento de entrada
+929;OPOO;Ordem de pagamento de saída
+93;CPV19;Estorno de nota fiscal de entrada de correção - Dados de alocação do depósito
+930;OPOR;Pedido de compra
+931;OPOS;Dados cadastrais POS
+932;OPPA;Administração de senhas
+933;OPPT;Tipo de pagamento
+934;OPQN;Grupo de oferta de compra
+935;OPQT;Oferta de compra
+936;OPQW;Geração de cotação de compras: sets de parâmetros
+937;OPR1;Oportunidade - linhas
+938;OPR2;Oportunidade - parceiros
+939;OPR3;Oportunidade -  concorrentes
+94;CPV2;Estorno Nota Fiscal de Entrada - Desp.adicionais - Linhas
+940;OPR4;Oportunidade - interesses
+941;OPR5;Oportunidade de vendas - Motivos
+942;OPRA;Configuração de contas do Razão da folha de pagamento
+943;OPRC;Centro de custos
+944;OPRJ;Códigos de projeto
+945;OPRO;Objeto da característica
+946;OPRQ;Solicitação de compra
+947;OPRS;Status do contribuinte fiscal
+948;OPRT;Parceiros
+949;OPSC;Código de origem do produto
+95;CPV20;Despesas Intrastat
+950;OPST;Subtipo do problema da chamada de serviço
+951;OPTF;Portfólio boleto
+952;OPTI;Local de saída
+953;OPVL;Mutuante - Pelecard
+954;OPWB;Assistente de pagamento - conta bancária
+955;OPWZ;Assistente de pagamento
+956;OPYB;Payment Block
+957;OPYD;Execução do pagamento
+958;OPYM;Métodos de pagamento para Assistente de pagamento
+959;OPYR;Motivo do pagamento
+96;CPV21;Estorno de fatura de conversão de entrada - informação de referência do documento
+960;OQUE;Fila
+961;OQUT;Cotação de vendas
+962;OQWZ;Assistente de consulta
+963;ORCJ;Log da capacidade do recurso
+964;ORCL;Instâncias de transação recorrentes
+965;ORCM;Dados da recomendação
+966;ORCN;Cadeias de varejistas
+967;ORCP;Modelo de transação recorrente
+968;ORCR;Lançamentos periódicos
+969;ORCT;Contas a receber
+97;CPV22;Nota fiscal de entrada de correção: estorno - Custos do recurso
+970;ORDN;Devoluções
+971;ORDR;Pedido de venda
+972;OREQ;Solicitação externa de chamada do sistema
+973;ORFL;Relatórios 347 349 e do imposto retido na fonte já exibidos
+974;ORIN;Dev.Nota Fiscal Saída
+975;ORIT;Taxa de juros de mora
+976;ORMK;Observação 1
+977;OROC;Códigos de operação de retorno
+978;ORPA;Áreas de permissão de routing
+979;ORPC;Dev.Nota Fiscal Entrada
+98;CPV23;Nota fiscal de entrada - Cadastro do ativo selecionado
+980;ORPD;Devolução de mercadorias
+981;ORPR;Permissões de routing
+982;ORPT;Tipo de resposta
+983;ORSB;Grupos de recurso
+984;ORSC;Recursos
+985;ORSG;Características do recurso
+986;ORST;Etapas de itinerários
+987;ORTI;Baixa
+988;ORTL;Log de transação do recurso
+989;ORTM;Diferenças de câmbio
+99;CPV3;Estorno devolução da nota fiscal de entrada - Despesas adicionais
+990;ORTS;Taxas IPC e ME para relatórios
+991;ORTT;Taxas IPC e ME
+992;ORTW;Assistente retorno de boleto: definições de parâmetro
+993;OSAB;Social
+994;OSBQ;Item - Número de série/lote - Acumulador do depósito
+995;OSCD;Tabela de códigos de serviço
+996;OSCG;Categoria de serviço
+997;OSCL;Chamados de serviço
+998;OSCM;Razão especial - regras de configuração contábil analítica: material
+999;OSCN;Nº do catálogo do cliente/fornecedor
