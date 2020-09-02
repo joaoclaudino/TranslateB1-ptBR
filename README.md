@@ -14,5 +14,3 @@ Extração das descrições das tabelas e campos do SAP Business One traduzidas 
 + Este projeto foi lançado de acordo com os termos da licença MIT. Consulte a LICENÇA para obter mais informações ou consulte https://opensource.org/licenses/MIT .
 
 Skype: joao.borges.claudino.junior
-
-tabelas campos SAPB1 Português
